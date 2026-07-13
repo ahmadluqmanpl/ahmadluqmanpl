@@ -2,7 +2,7 @@
 
 # Hi, I'm Luqman 👋
 
-### Engineering Student | Practical Tools | Learning by Building
+### An Engineering Student | Develop Practical Tools | Learning by Building
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Engineering+Student;Building+Useful+Software+Tools;Code.+Test.+Improve.;Learning+by+Creating" alt="Typing SVG" />
 
