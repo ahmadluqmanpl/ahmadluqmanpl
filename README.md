@@ -42,8 +42,6 @@ Mindset      : Code, test, improve, repeat
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadluqmanpl&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D95&text_color=FFFFFF&icon_color=FFD700" alt="GitHub Stats" />
-
 </div>
 
 ---
