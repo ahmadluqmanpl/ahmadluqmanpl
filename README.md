@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ahmadluqmanpl/ahmadluqmanpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Luqman 👋
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=800&center=true&vCenter=true&width=700&lines=Student+Developer;Building+Practical+Software+Tools;Learning+by+Creating;Code.+Improve.+Repeat." alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## About Me
+
+I am a student developer exploring software development, engineering tools, and practical digital solutions.  
+I enjoy building projects that solve real problems, especially tools that can help students learn, calculate, organize, and work more efficiently.
+
+```txt
+Focus        : Practical software development
+Interest     : Web apps, desktop apps, automation, education tools
+Current work : UTeM GPA CGPA Calculator
+Mindset      : Learn, build, improve
