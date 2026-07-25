@@ -2,7 +2,7 @@
 
 # Hi, I'm Luqman 👋
 
-### An Engineering Student | Develop Practical Tools | Learning by Building
+### Engineering Student | Practical Tool Developer | Learning by Building
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Engineering+Student;Building+Useful+Software+Tools;Code.+Test.+Improve.;Learning+by+Creating" alt="Typing SVG" />
 
@@ -12,14 +12,14 @@
 
 ## About Me
 
-I am a engineering student interested in building simple, useful, and practical software tools.  
+I am an engineering student interested in building simple, useful, and practical software tools.  
 I enjoy creating projects that help with learning, productivity, and student life.
 
 ```txt
-Focus        : Practical software development
-Interest     : Web apps, desktop apps, education tools
-Currently    : Building student-friendly software
-Mindset      : Code, test, improve, repeat
+Focus     : Practical software development & clean UI/UX
+Interest  : Cross-platform desktop & mobile apps, web utilities, educational tools
+Currently : Building offline-first student productivity software
+Mindset   : Code, test, improve, repeat
 ```
 
 ---
@@ -28,7 +28,7 @@ Mindset      : Code, test, improve, repeat
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,electron,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,electron,androidstudio,cloudflare,pnpm,git,github,vscode" />
 
 </div>
 
@@ -40,40 +40,39 @@ Mindset      : Code, test, improve, repeat
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadluqmanpl&theme=radical&hide_border=true&background=0D1117&ring=FF2D95&fire=FF2D95&currStreakNum=FFD700&sideNums=FF2D95&currStreakLabel=FFD700&sideLabels=FF2D95&dates=80FFFF" alt="GitHub Streak Stats" />
 
-<br><br>
-
 </div>
 
 ---
 
 ## Featured Project
 
-### UTeM GPA CGPA Calculator
+### Unofficial UTeM GPA/CGPA Calculator
 
-An unofficial GPA and CGPA calculator built to help students calculate and prepare academic reports more easily.
+An unofficial GPA and CGPA calculator built to help students calculate grades and prepare academic consultation reports easily.
 
 ```txt
-Type       : Web app and Windows desktop app
-Built with : JavaScript, Electron, HTML, CSS
-Purpose    : Student academic planning
+Platforms  : Windows desktop (.exe), Android mobile (.apk), Web app
+Built with : JavaScript, HTML/CSS, Electron, Capacitor, Cloudflare Workers
+Privacy    : 100% local profile storage (offline) & session-only memory (web)
 ```
 
-Main features:
-
-- GPA and CGPA calculation
-- Programme selection
-- Online session-only report details
-- Offline Windows app with local profile support
-- PDF report preview and print/save support
+```txt
+Main Features:
+• Credit-weighted GPA and CGPA calculation
+• Cross-platform support (Windows, Android, Cloudflare Worker)
+• Offline multi-profile storage with auto-save
+• Bundled searchable UTeM programme catalogue
+• Local A4 academic consultation report preview & PDF export
+```
 
 ---
 
 ## What I Like to Build
 
 ```txt
-Academic tools
-Offline desktop apps
-Student-friendly software
+Offline Desktop & mobile apps
+Privacy-respecting utility tools
+Student-focused productivity software
 ```
 
 ---
