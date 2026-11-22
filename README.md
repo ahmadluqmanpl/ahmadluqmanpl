@@ -70,13 +70,13 @@ Privacy    : Local profile storage & session-only web data
 **Main Features**
 
 ```txt
-• Credit-weighted GPA and CGPA calculation
-• Windows, Android and Web support
-• Offline multi-profile storage with auto-save
-• Searchable bundled UTeM programme catalogue
-• Academic consultation report preview
-• A4 PDF export
-• Input validation & structured data handling
+- Credit-weighted GPA and CGPA calculation
+- Windows, Android and Web support
+- Offline multi-profile storage with auto-save
+- Searchable bundled UTeM programme catalogue
+- Academic consultation report preview
+- A4 PDF export
+- Input validation & structured data handling
 ```
 
 ---
@@ -98,15 +98,43 @@ Architecture: ViewModel, StateFlow, Room, DataStore
 **Main Features**
 
 ```txt
-• JAKIM prayer schedule integration
-• Current & next prayer countdown
-• Daily five-prayer tracker
-• Prayer notifications & reminders
-• Qibla compass
-• Home-screen widgets
-• Hijri date support
-• Offline prayer schedule caching
-• English & Bahasa Melayu support
+- JAKIM prayer schedule integration
+- Current & next prayer countdown
+- Daily five-prayer tracker
+- Prayer notifications & reminders
+- Qibla compass
+- Home-screen widgets
+- Hijri date support
+- Offline prayer schedule caching
+- English & Bahasa Melayu support
+```
+
+---
+
+### ⚡ Element Zapper
+
+<a href="https://github.com/ahmadluqmanpl/element-zapper">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository" />
+</a>
+
+A lightweight Manifest V3 Chrome extension for visually inspecting, previewing, and permanently hiding unwanted elements on any website.
+
+```txt
+Platform   : Chrome & Chromium Browsers (Manifest V3)
+Built with : JavaScript, HTML/CSS, Chrome Scripting API, Shadow DOM
+Privacy    : 100% local storage & zero external network requests
+```
+
+**Main Features**
+
+```txt
+- Visual hover picker & live element inspector
+- Parent & child DOM stepping with live match preview
+- Smart Match Modes (:has() rules for dynamic & sponsored ads)
+- Flicker-free persistent blocking via USER-origin CSS
+- Closed Shadow DOM & Top Layer Popover overlay
+- Instant per-element restore & manual CSS selector input
+- Offline rule storage saved per domain
 ```
 
 ---
